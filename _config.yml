@@ -59,6 +59,8 @@ theme_settings:
 paginate: 100
 paginate_path: "blog/page:num"
 
+
+
 # COLLECTIONS
 collections:
   portfolio:
